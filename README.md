@@ -1,5 +1,7 @@
 # taiex-charts
 
+**線上版**：https://dari-design-web.github.io/taiex-charts/ （晨報與盤後總結，只保留最近 7 天；`reports/YYYY-MM-DD/am|pm.html`，由 TAIEX\src\publish.py 產生）
+
 TAIEX 每日報告（早報／盤後小結）在 email 中顯示用的公開市場圖表。
 
 - 只放公開市場資料繪成的圖（指數、類股、個股 K 線、月營收、選擇權未平倉等）
